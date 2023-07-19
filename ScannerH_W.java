@@ -12,5 +12,6 @@ public class ScannerH_W {
         System.out.println();
         System.out.println("Yout name is: " + name);
     }
+    
 }
 
